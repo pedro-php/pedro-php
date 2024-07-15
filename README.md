@@ -1,0 +1,3 @@
+- Full Stack Developer at Adaptweb  
+- HTML | CSS | JS | JQuery | Bootstrap  
+- NODE JS | PHP | NestJs
